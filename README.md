@@ -4,3 +4,4 @@ This is a game made in section 4 in the unreal course called [The Unreal Engine 
 
 ## Finished Lecture List
 * BT01 Intro, Notes & Assets
+* BT02 Game Design Document (GDD)
