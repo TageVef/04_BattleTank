@@ -11,3 +11,4 @@ This is a game made in section 4 in the unreal course called [The Unreal Engine 
 * BT06 A Landscape Process
 * BT07 Upgrading Engine Version
 * BT08 Using Landscape Layers
+* BT09 Flat Shading Low Poly Landscapes
