@@ -8,3 +8,4 @@ This is a game made in section 4 in the unreal course called [The Unreal Engine 
 * BT03 Setting up a GitHub "Repo"
 * BT04 Creating & Deleting Landscapes
 * BT05 Landscape Setup & Scaling
+* BT06 A Landscape Process
